@@ -4,7 +4,8 @@ Duration: **5 days**.
 
 The mission is, in a given code, create 2 *charts* from data tables, and another chart from remote data that has to be retrieved via *AJAX*.  
 
-### **Site:**  [Data Visualisation](https://alexjs6.github.io/Data-Visualisation/.)
+### **Site:**
+[Data Visualisation](https://alexjs6.github.io/Data-Visualisation/.)
 
 Used Languages:  
 * Javascript
