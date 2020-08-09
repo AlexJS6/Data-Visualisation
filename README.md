@@ -26,9 +26,6 @@ https://github.com/becodeorg/BXL-Swartz-3-21/tree/master/05-Javascript/javascrip
 >JSON data Chart:  
 ![JSON Data Chart](assets/JSON-Chart.png)
 
-### **You can check it out here:**  
-[Data Visualisation]()  
-
 ---  
 
 ## **EVALUATION** 
@@ -69,4 +66,7 @@ The evaluation method chosen is a self-evaluation based on the following indicat
 #### 6. Separation of concerns:
 
  - [x] If I disable javascript, the user experience is satisfactory, the user has access to data and content
- - [x] If I enable javascript, the tables are enhanced with an interactive graph.
+ - [x] If I enable javascript, the tables are enhanced with an interactive graph.  
+ ---  
+ ### **You can check it out here:**  
+[Data Visualisation]()  
